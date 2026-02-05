@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Elizabeth Bangiyev",
+	"description": "A Node.js project that is created for the in-class activity to teach about managing/configuring package.json files with npm",
+	"license": "MIT",
+	"keywords": [ "freecodecamp", "npm", "nodejs" ],
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
